@@ -14,5 +14,5 @@ import tensorflow as tf
 from sklearn.preprocessing import minmax_scale
 
 #读取数据
-#所读取的数据为付费数据，已上传pickle文件，供大家学习探讨使用
+
 
